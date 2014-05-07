@@ -6,5 +6,6 @@ MoonPad基于Node-Webkit和CodeMirror等开源软件，同样一开源精神进�
 
 目标：
 1. 支持分享到各大社交网站和博客
+
 2. 支持分享到WordPress等常有博客平台
 
