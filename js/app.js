@@ -148,7 +148,7 @@ fileMenu.append( new gui.MenuItem({ label: "另存为" }) );
 fileMenu.append( new gui.MenuItem({ type: "separator" }) );
 fileMenu.append( new gui.MenuItem({ label: "发送到" }) );
 fileMenu.append( new gui.MenuItem({ 
-	label: "导出为",
+	label: "导出为PDF",
 	click: function(){
 		var chooser = document.querySelector("#saveFileDialog");
 		chooser.addEventListener("change", function(evt){
