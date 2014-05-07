@@ -1,0 +1,16 @@
+{
+	"main" : "main.html",
+	"name" : "MoonPad",
+	"description" : "A beautiful and easy to use markdown editor!",
+	"version" : "0.1.0",
+	"keywords" : ["MoonPad", "Mardown", "Editor"],
+	"window" : {
+		"toolbar" : false,
+		"width"  : 1050,
+		"height" : 600,
+		"min_width"  : 1050,
+		"min_height" : 600,
+		"frame"  : true,
+		"node-remote": "localhost"
+	}
+}
